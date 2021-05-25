@@ -238,6 +238,6 @@ Cheers!
 
 [activity-instrumentation-test-case-2]: https://developer.android.com/reference/android/test/ActivityInstrumentationTestCase2.html
 [rules]: https://github.com/junit-team/junit4/wiki/rules
-[junit-rules]: http://cwd.dhemery.com/2010/12/junit-rules/
+[junit-rules]: https://cwd.dhemery.com/2010/12/junit-rules/
 [realm]: https://realm.io/
 [github]: https://github.com/Egorand/android-test-rules

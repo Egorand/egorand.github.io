@@ -199,5 +199,5 @@ you can just rely on Java classes if the Kotlin counterparts are missing. Have f
 [synchronized-annotation]: https://kotlinlang.org/api/latest/jvm/stdlib/kotlin.jvm/-synchronized/
 [synchronized-function]: https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/synchronized.html
 [volatile]: https://kotlinlang.org/api/latest/jvm/stdlib/kotlin.jvm/-volatile/index.html
-[stackoverflow]: http://stackoverflow.com/questions/35520583/why-there-are-no-constructs-for-concurrency-in-kotlin
+[stackoverflow]: https://stackoverflow.com/questions/35520583/why-there-are-no-constructs-for-concurrency-in-kotlin
 [github]: https://github.com/Egorand/kotlin-concurrency-primitives
