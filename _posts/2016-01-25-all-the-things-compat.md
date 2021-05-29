@@ -3,6 +3,7 @@ layout: post
 title:  "All the things Compat"
 date:   2016-01-25 00:00:00 -0400
 categories: android
+tags: [android, java]
 ---
 Android is constantly evolving, every year we get new cool features and new awesome APIs added to 
 the SDK. But backwards compatibility has always been an issue. Here's the Android versions 

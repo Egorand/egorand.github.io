@@ -3,6 +3,7 @@ layout: post
 title:  "Understanding Test Rules"
 date:   2016-09-20 00:00:00 -0400
 categories: java
+tags: [android, junit, kotlin, testing]
 ---
 If you've ever happened to write Espresso tests, you should be familiar with the following 
 declaration:

@@ -3,6 +3,7 @@ layout: post
 title:  "Testing Runtime Permissions: Lessons Learned"
 date:   2016-03-13 00:00:00 -0400
 categories: android
+tags: [android, java, testing]
 ---
 Recently I've been working on adding the Android M Runtime Permissions support to the project I'm on
 at the moment. As an Android user, I find runtime permissions awesome. Permission model was not very

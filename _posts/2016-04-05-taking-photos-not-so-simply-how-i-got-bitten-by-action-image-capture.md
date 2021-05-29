@@ -3,6 +3,7 @@ layout: post
 title:  "Taking Photos Not So Simply: How I Got Bitten By ACTION_IMAGE_CAPTURE"
 date:   2016-04-05 00:00:00 -0400
 categories: android
+tags: [android, java]
 ---
 I've worked on a number of apps that are taking pictures for different use cases, and since it has 
 always been a secondary feature for those apps, I've relied on using Intents, the approach described 

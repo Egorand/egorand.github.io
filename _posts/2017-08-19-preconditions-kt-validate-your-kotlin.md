@@ -3,6 +3,7 @@ layout: post
 title:  "Preconditions.kt: Validate Your Kotlin"
 date:   2017-08-19 00:00:00 -0400
 categories: kotlin
+tags: [kotlin]
 ---
 Input validation is important, so you're most likely familiar with the following pattern in Java:
 

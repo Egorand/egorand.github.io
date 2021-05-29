@@ -3,6 +3,7 @@ layout: post
 title:  "Where Should I Keep My Constants in Kotlin?"
 date:   2017-06-14 00:00:00 -0400
 categories: kotlin
+tags: [kotlin]
 ---
 There has recently been a discussion online about the best approach for storing global constants, or 
 `public static final` fields in Javaspeak. This short article describes available options and points 

@@ -3,6 +3,7 @@ layout: post
 title:  "Making Rainbow HAT Work with the Android Things"
 date:   2016-12-30 00:00:00 -0400
 categories: android
+tags: [android, android-things, kotlin]
 ---
 ![IMG_20161219_194732.jpg](/assets/IMG_20161219_194732.jpg)
 

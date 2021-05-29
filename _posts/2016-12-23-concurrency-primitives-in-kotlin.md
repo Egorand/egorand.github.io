@@ -3,6 +3,7 @@ layout: post
 title:  "Concurrency Primitives in Kotlin"
 date:   2016-12-23 00:00:00 -0400
 categories: kotlin
+tags: [kotlin]
 ---
 I've recently started reading ["Android Concurrency" by G. Blake Meike][android-concurrency], and 
 so far I can highly recommend this great book: it contains quite a lot of insight into how various 

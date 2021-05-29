@@ -3,6 +3,7 @@ layout: post
 title:  "Testing a sorted list with Espresso"
 date:   2015-11-21 00:00:00 -0400
 categories: android
+tags: [android, java, testing]
 ---
 [Espresso][espresso] is a pretty powerful tool when it comes to writing acceptance tests for 
 Android. [Acceptance tests][acceptance-tests] are the ones that make sure your entire feature (or a 

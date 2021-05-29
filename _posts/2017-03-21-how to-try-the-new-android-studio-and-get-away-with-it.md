@@ -3,6 +3,7 @@ layout: post
 title:  "How to Try the New Android Studio and Get Away with It"
 date:   2017-03-21 00:00:00 -0400
 categories: gradle
+tags: [android, gradle]
 ---
 It's that time again when the fresh version of Android Studio hits the Canary channel, and of 
 course, you're eager to try it. As soon as you open your project in the new Android Studio, it will 
