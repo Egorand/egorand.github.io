@@ -38,3 +38,11 @@ exclude:
   - Gemfile.lock
   - CNAME
   - LICENSE
+
+defaults:
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      readtime: true
