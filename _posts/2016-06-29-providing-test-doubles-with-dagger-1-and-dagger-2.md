@@ -2,7 +2,6 @@
 layout: post
 title:  "Providing test doubles with Dagger 1 and Dagger 2"
 date:   2016-06-29 00:00:00 -0400
-categories: android
 tags: [android, dagger, java, testing]
 ---
 Dagger is a popular dependency injection solution, which works very well with Android, and at the 

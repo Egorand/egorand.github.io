@@ -2,7 +2,6 @@
 layout: post
 title:  "Testing Reactive Presenters: Destructure Your ViewModel Lists!"
 date:   2018-05-10 00:00:00 -0400
-categories: android, kotlin
 tags: [android, kotlin, testing]
 ---
 Back in the early days of Kotlin adoption on Android, many people started writing their unit tests 

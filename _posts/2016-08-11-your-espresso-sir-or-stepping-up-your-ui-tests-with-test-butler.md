@@ -2,7 +2,6 @@
 layout: post
 title:  "\"Your Espresso, Sir!\", or Stepping Up Your UI Tests With Test Butler"
 date:   2016-08-11 00:00:00 -0400
-categories: android
 tags: [android, kotlin, testing]
 ---
 **Fact #1. Acceptance tests are great.** Continuous integration is slowly becoming ubiquitous in 

@@ -2,7 +2,6 @@
 layout: post
 title:  "Android M Developer Preview: Running the Fingerprint Dialog sample"
 date:   2015-05-28 00:00:00 -0400
-categories: android
 tags: [android, java]
 ---
 So, the [Android M Developer Preview is out!][m-preview] All related info is already published, 

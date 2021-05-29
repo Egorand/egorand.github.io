@@ -2,7 +2,6 @@
 layout: post
 title:  "Inlining Kotlin Properties"
 date:   2017-09-29 00:00:00 -0400
-categories: kotlin
 tags: [kotlin]
 ---
 Did you know that you can [inline properties in Kotlin][inline-properties]? I discovered this small 

@@ -2,7 +2,6 @@
 layout: post
 title:  "Why Trailing Commas In Kotlin Are Hype"
 date:   2020-03-14 00:00:00 -0400
-categories: kotlin
 tags: [kotlin]
 ---
 Kotlin 1.3.70 landed last week with a bunch of new APIs, bug fixes and tooling improvements (check 

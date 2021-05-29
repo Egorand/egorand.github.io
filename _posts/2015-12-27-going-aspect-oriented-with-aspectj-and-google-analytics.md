@@ -2,7 +2,6 @@
 layout: post
 title:  "Going aspect-oriented with AspectJ and Google Analytics"
 date:   2015-12-27 00:00:00 -0400
-categories: android
 tags: [android, aop, java]
 ---
 I've recently stumbled upon an interesting article called 

@@ -2,7 +2,6 @@
 layout: post
 title:  "A Curious Case of Multiple Locales"
 date:   2017-01-28 00:00:00 -0400
-categories: android
 tags: [android]
 ---
 One of the features introduced in Android N is the possibility to select multiple languages in 

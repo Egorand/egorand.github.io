@@ -2,7 +2,6 @@
 layout: post
 title:  "Reliable functional tests with Espresso and Dagger"
 date:   2015-12-13 00:00:00 -0400
-categories: android
 tags: [android, java, testing]
 ---
 One of the core properties of automated tests is that they should be **reliable**, meaning that a 
