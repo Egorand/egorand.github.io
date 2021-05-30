@@ -2,7 +2,7 @@
 layout: post
 title:  "Keeping Your Secrets Safe With greenDAO's Database Encryption"
 date:   2016-05-04 00:00:00 -0400
-tags: [android, greendao, java]
+tags: [android, java, open-source]
 ---
 One of the most popular Android ORM solutions out there, greenDAO, has 
 [recently been updated][greendao-release] with a new exciting feature - the database encryption. 

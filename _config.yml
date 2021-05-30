@@ -5,6 +5,8 @@ baseurl: /
 url: https://egorand.dev
 
 navbar-links:
+  Presentations: "tags/#presentation"
+  Podcasts: "tags/#podcast"
   About Me: "about"
 
 social-network-links:
