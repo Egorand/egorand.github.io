@@ -1,7 +1,15 @@
 ---
 layout: page
-title: About
+title: About me
 permalink: /about/
 ---
+Hey, I'm Egor Andreevich, and this is my tech blog where I write about Android, Kotlin and tech in
+general.
 
-This page is currently empty, but I'll add something here some day, I promise.
+I work at [Cash App][cash-app] and live in Kitchener, ON, Canada. I'm originally from Chisinau,
+Republic of Moldova, and I've been living in Canada since 2018. Outside of work I like to travel,
+watch football ⚽️, play guitar and listen to good music.
+
+Want to get in touch? Send me a DM on Twitter!
+
+ [cash-app]: https://cash.app
