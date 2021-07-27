@@ -62,7 +62,7 @@ code comments, I like this one ([source][codinghorror-tweet]):
 {: refdef}
 
 And what's worse, there is no bulletproof way to ensure you don't forget to update the documentation
-when the code changes. On the contrary, unit tests _will_ break unless updated to reflect the 
+when the code changes. On the other hand, unit tests _will_ break unless updated to reflect the 
 changes in production code.
 
 [KotlinPoet][kotlinpoet] has a very extensive suite of unit and integration tests, which also serves
