@@ -11,10 +11,7 @@ navbar-links:
 
 social-network-links:
   github: Egorand
-  twitter: EgorAnd
-
-share-links-active:
-  twitter: true
+  bluesky: egorand.dev
 
 rss-description: Subscribe via RSS
 url-pretty: "egorand.dev"
